@@ -22,7 +22,28 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: banenelol
 github_username:  ilkhem
 
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email: ilyes.khemakhem@gmail.com
+  facebook: khemakhem
+  flickr: khemakhem
+  github: ilkhem
+  instagram: ilyeskhemakhem
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: banenelol
+  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: # channel/<your_long_string> or user/<user-name>
+  googleplus: # anything in your profile username that comes after plus.google.com/
+
 # Build settings
+include: ["_pages"] # put pages in the _pages/ folder and add it to build
+permalink: /:title/ # specifies the form of the permalink to posts
+
+
 markdown: kramdown
 plugins:
   - jekyll-feed
