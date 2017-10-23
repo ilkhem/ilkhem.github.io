@@ -1,7 +1,8 @@
 ---
 layout: page  
 title: Projects  
-permalink: /projects/  
+permalink: /projects/
+published: False  
 ---
 
 Text for demonstration purposes.
