@@ -17,26 +17,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
-# social
-twitter_username: banenelol
-github_username:  ilkhem
-
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: ilyes.khemakhem@gmail.com
-  facebook: khemakhem
-  flickr: khemakhem
-  github: ilkhem
-  instagram: ilyeskhemakhem
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: banenelol
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
