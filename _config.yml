@@ -8,7 +8,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-favicon_location: /assets/favicon.ico 
+favicon_location: /assets/favicon.ico
+talk_location: /files/
+paper_location: /files/
 
 # Build settings
 include: ["_pages"] # put pages in the _pages/ folder and add it to build
