@@ -3,7 +3,7 @@
 layout: home
 ---
 
-I am a second year PhD student at [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/), [UCL](https://www.ucl.ac.uk/) under the supervision of [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/). Before the PhD, I completed an engineering degree at [École polytechnique](https://www.polytechnique.edu) with a focus on applied mathematics. I also obtained a masters degree in Computer vision and Machine learning ([MVA](https://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)).
+I am a third year PhD student at [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/), [UCL](https://www.ucl.ac.uk/) under the supervision of [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/). Before the PhD, I completed an engineering degree at [École polytechnique](https://www.polytechnique.edu) with a focus on applied mathematics. I also obtained a masters degree in Computer vision and Machine learning ([MVA](https://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)).
 
 
 ## Research Interest
