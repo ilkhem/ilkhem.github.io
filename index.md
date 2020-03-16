@@ -17,7 +17,7 @@ I am always open for a research discussion.
 
 ## Contact
 **email**: firstname dot lastname at gmail dot com. <br/>
-**office**: room 236, Gatsby Computational Neuroscience Unit, 25 Howland Street, London W1T4JG, UK
+**office**: room 238, Gatsby Computational Neuroscience Unit, 25 Howland Street, London W1T4JG, UK
 
 
 Find me on [google scholar](https://scholar.google.fr/citations?user=MBM_oOUAAAAJ&hl=en), [github](https://github.com/ilkhem), [twitter](https://twitter.com/ilkhem), [instagram](https://www.instagram.com/layskh/) and [flickr](https://www.flickr.com/photos/khemakhem/).
