@@ -3,15 +3,25 @@
 layout: home
 ---
 
-I am a third year PhD student at [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/), [UCL](https://www.ucl.ac.uk/) under the supervision of [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/). Before the PhD, I completed an engineering degree at [École polytechnique](https://www.polytechnique.edu) with a focus on applied mathematics. I also obtained a masters degree in Computer vision and Machine learning ([MVA](https://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)).
+I am a third year PhD student at [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/), [UCL](https://www.ucl.ac.uk/) under the supervision of [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/). Before the PhD, I completed an engineering degree at [École polytechnique](https://www.polytechnique.edu/en) with a focus on applied mathematics. I also obtained a masters degree in Computer vision and Machine learning ([MVA](https://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)).
 
 
 ## Research Interest
 
-My research mainly focuses on unsupervised learning, namely nonlinear ICA, disentangled representations and density estimation. I also have an interest in causality, neuroscience (particularly applying machine learning models on neuroimaging data), statistical physics and differential geometry.
+My research mainly focuses on unsupervised learning, namely identifiability, nonlinear ICA, disentangled representations and density estimation. I also have an interest in causality, neuroscience (particularly applying machine learning models on neuroimaging data), statistical physics and differential geometry.
 
 I am always open for a research discussion.
 
+
+
+## Selected papers
+- **ICE-BeeM: Identifiable conditional energy-based deep models based on nonlinear ICA**, Ilyes Khemakhem, Ricardo Pio Monti, Diederik P Kingma, Aapo Hyvärinen \\
+arXiv preprint 2002.11537 \\
+\[[arXiv](https://arxiv.org/abs/2002.11537)\] \[[code](https://github.com/ilkhem/icebeem)\] \[[bibtex](bib/icebeem)\]
+
+- **Variational Autoencoders and Nonlinear ICA: A Unifying Framework**, Ilyes Khemakhem, Diederik P Kingma, Ricardo Pio Monti, Aapo Hyvärinen \\
+23rd International Conference on Artificial Intelligence and Statistics (AISTATS) \\
+\[[arXiv](https://arxiv.org/abs/1907.04809)\] \[[proceedings](http://proceedings.mlr.press/v108/khemakhem20a/khemakhem20a.pdf)\] \[[code](https://github.com/ilkhem/icebeem/tree/master/models/ivae)\] \[[bibtex](bib/ivae)\]
 
 
 
