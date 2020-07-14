@@ -8,18 +8,22 @@ I am a third year PhD student at [Gatsby Computational Neuroscience Unit](http:/
 
 ## Research Interest
 
-My research mainly focuses on unsupervised learning, namely identifiability, nonlinear ICA, disentangled representations and density estimation. I also have an interest in causality, neuroscience (particularly applying machine learning models on neuroimaging data), statistical physics and differential geometry.
+My research focuses on unsupervised learning, mainly identifiability, nonlinear ICA, disentangled representations and density estimation. I also have an interest in causality, neuroscience (particularly applying machine learning models on neuroimaging data), statistical physics and differential geometry.
 
 I am always open for a research discussion.
 
 
 
 ## Selected papers
+- **Autoregressive flow-based causal discovery and inference**, Ricardo Pio Monti, Ilyes Khemakhem, Aapo Hyvärinen \\
+ICML INNF workshop, 2020 \\
+\[[pdf](https://invertibleworkshop.github.io/accepted_papers/pdfs/28.pdf)\] \[[code](https://github.com/piomonti/AffineFlowCausalInf)\] 
+
 - **ICE-BeeM: Identifiable conditional energy-based deep models based on nonlinear ICA**, Ilyes Khemakhem, Ricardo Pio Monti, Diederik P Kingma, Aapo Hyvärinen \\
 arXiv preprint 2002.11537 \\
 \[[arXiv](https://arxiv.org/abs/2002.11537)\] \[[code](https://github.com/ilkhem/icebeem)\] \[[bibtex](bib/icebeem)\]
 
-- **Variational Autoencoders and Nonlinear ICA: A Unifying Framework**, Ilyes Khemakhem, Diederik P Kingma, Ricardo Pio Monti, Aapo Hyvärinen \\
+- **Variational autoencoders and nonlinear ICA: a unifying framework**, Ilyes Khemakhem, Diederik P Kingma, Ricardo Pio Monti, Aapo Hyvärinen \\
 23rd International Conference on Artificial Intelligence and Statistics (AISTATS) \\
 \[[arXiv](https://arxiv.org/abs/1907.04809)\] \[[proceedings](http://proceedings.mlr.press/v108/khemakhem20a/khemakhem20a.pdf)\] \[[code](https://github.com/ilkhem/icebeem/tree/master/models/ivae)\] \[[bibtex](bib/ivae)\]
 
@@ -27,7 +31,7 @@ arXiv preprint 2002.11537 \\
 
 ## Contact
 **email**: firstname dot lastname at gmail dot com. <br/>
-**office**: room 238, Gatsby Computational Neuroscience Unit, 25 Howland Street, London W1T4JG, UK
+**office**: ~~room 238, Gatsby Computational Neuroscience Unit, 25 Howland Street, London W1T4JG, UK~~ home!
 
 
 Find me on [google scholar](https://scholar.google.fr/citations?user=MBM_oOUAAAAJ&hl=en), [github](https://github.com/ilkhem), [twitter](https://twitter.com/ilkhem), [instagram](https://www.instagram.com/layskh/) and [flickr](https://www.flickr.com/photos/khemakhem/).
