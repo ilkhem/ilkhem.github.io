@@ -34,4 +34,4 @@ arXiv preprint 2002.11537 \\
 **office**: ~~room 238, Gatsby Computational Neuroscience Unit, 25 Howland Street, London W1T4JG, UK~~ home!
 
 
-Find me on [google scholar](https://scholar.google.fr/citations?user=MBM_oOUAAAAJ&hl=en), [github](https://github.com/ilkhem), [twitter](https://twitter.com/ilkhem), [instagram](https://www.instagram.com/layskh/) and [flickr](https://www.flickr.com/photos/khemakhem/).
+Find me on [google scholar](https://scholar.google.fr/citations?user=MBM_oOUAAAAJ&hl=en), [github](https://github.com/ilkhem), [twitter](https://twitter.com/ilkhem), [instagram](https://www.instagram.com/ilyestrations/) and [flickr](https://www.flickr.com/photos/khemakhem/).
