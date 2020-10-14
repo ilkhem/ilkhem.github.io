@@ -17,10 +17,10 @@ I am always open for a research discussion.
 ## Selected papers
 - **Autoregressive flow-based causal discovery and inference**, Ricardo Pio Monti, Ilyes Khemakhem, Aapo Hyvärinen \\
 ICML INNF workshop, 2020 \\
-\[[pdf](https://invertibleworkshop.github.io/accepted_papers/pdfs/28.pdf)\] \[[code](https://github.com/piomonti/AffineFlowCausalInf)\] 
+\[[arxiv](https://arxiv.org/abs/2007.09390)\] \[[proceedings](https://invertibleworkshop.github.io/accepted_papers/pdfs/28.pdf)\] \[[code](https://github.com/piomonti/AffineFlowCausalInf)\]
 
 - **ICE-BeeM: Identifiable conditional energy-based deep models based on nonlinear ICA**, Ilyes Khemakhem, Ricardo Pio Monti, Diederik P Kingma, Aapo Hyvärinen \\
-arXiv preprint 2002.11537 \\
+34th Conference on Neural Information Processing Systems (NeurIPS 2020) (Spotlight) \\
 \[[arXiv](https://arxiv.org/abs/2002.11537)\] \[[code](https://github.com/ilkhem/icebeem)\] \[[bibtex](bib/icebeem)\]
 
 - **Variational autoencoders and nonlinear ICA: a unifying framework**, Ilyes Khemakhem, Diederik P Kingma, Ricardo Pio Monti, Aapo Hyvärinen \\
