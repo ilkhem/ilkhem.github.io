@@ -15,6 +15,10 @@ I am always open for a research discussion.
 
 
 ## Selected papers
+- **Causal Autoregressive Flows**, Ilyes Khemakhem, Ricardo Pio Monti, Robert Leech, Aapo Hyvärinen \\
+preprint, arxiv:2011.02268 \[ml, stat\], 2020 \\
+\[[arxiv](https://arxiv.org/abs/2011.02268)\] \[[code](https://github.com/piomonti/AffineFlowCausalInf)\]
+
 - **Autoregressive flow-based causal discovery and inference**, Ricardo Pio Monti, Ilyes Khemakhem, Aapo Hyvärinen \\
 ICML INNF workshop, 2020 \\
 \[[arxiv](https://arxiv.org/abs/2007.09390)\] \[[proceedings](https://invertibleworkshop.github.io/accepted_papers/pdfs/28.pdf)\] \[[code](https://github.com/piomonti/AffineFlowCausalInf)\]
