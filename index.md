@@ -3,7 +3,8 @@
 layout: home
 ---
 
-I am a third year PhD student at [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/), [UCL](https://www.ucl.ac.uk/) under the supervision of [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/). Before the PhD, I completed an engineering degree at [École polytechnique](https://www.polytechnique.edu/en) with a focus on applied mathematics. I also obtained a masters degree in Computer vision and Machine learning ([MVA](https://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)).
+I am a forth year PhD student at [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/), [UCL](https://www.ucl.ac.uk/) under the supervision of [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/). Before the PhD, I completed an engineering degree at [École polytechnique](https://www.polytechnique.edu/en) with a focus on applied mathematics. I also obtained a masters degree in Computer vision and Machine learning ([MVA](https://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)). <br/>
+I organize Gatsby's [Machine Learning journal club](http://www.csml.ucl.ac.uk/events/series/28), and co-organize the [DeepMind/ELLIS CSML Seminar Series at UCL](http://www.csml.ucl.ac.uk/events/series/7).
 
 
 ## Research Interest
@@ -16,7 +17,7 @@ I am always open for a research discussion.
 
 ## Selected papers
 - **Causal Autoregressive Flows**, Ilyes Khemakhem, Ricardo Pio Monti, Robert Leech, Aapo Hyvärinen \\
-preprint, arxiv:2011.02268 \[ml, stat\], 2020 \\
+24th International Conference on Artificial Intelligence and Statistics (AISTATS), 2021 \\
 \[[arxiv](https://arxiv.org/abs/2011.02268)\] \[[code](https://github.com/piomonti/AffineFlowCausalInf)\]
 
 - **Autoregressive flow-based causal discovery and inference**, Ricardo Pio Monti, Ilyes Khemakhem, Aapo Hyvärinen \\
@@ -24,11 +25,11 @@ ICML INNF workshop, 2020 \\
 \[[arxiv](https://arxiv.org/abs/2007.09390)\] \[[proceedings](https://invertibleworkshop.github.io/accepted_papers/pdfs/28.pdf)\] \[[code](https://github.com/piomonti/AffineFlowCausalInf)\]
 
 - **ICE-BeeM: Identifiable conditional energy-based deep models based on nonlinear ICA**, Ilyes Khemakhem, Ricardo Pio Monti, Diederik P Kingma, Aapo Hyvärinen \\
-34th Conference on Neural Information Processing Systems (NeurIPS 2020) (Spotlight) \\
-\[[arXiv](https://arxiv.org/abs/2002.11537)\] \[[code](https://github.com/ilkhem/icebeem)\] \[[bibtex](bib/icebeem)\]
+34th Conference on Neural Information Processing Systems (NeurIPS), 2020 (Spotlight) \\
+\[[arXiv](https://arxiv.org/abs/2002.11537)\] \[[proceedings](https://proceedings.neurips.cc/paper/2020/hash/962e56a8a0b0420d87272a682bfd1e53-Abstract.html)\] \[[code](https://github.com/ilkhem/icebeem)\] \[[bibtex](bib/icebeem)\]
 
 - **Variational autoencoders and nonlinear ICA: a unifying framework**, Ilyes Khemakhem, Diederik P Kingma, Ricardo Pio Monti, Aapo Hyvärinen \\
-23rd International Conference on Artificial Intelligence and Statistics (AISTATS) \\
+23rd International Conference on Artificial Intelligence and Statistics (AISTATS), 2020 \\
 \[[arXiv](https://arxiv.org/abs/1907.04809)\] \[[proceedings](http://proceedings.mlr.press/v108/khemakhem20a/khemakhem20a.pdf)\] \[[code](https://github.com/ilkhem/icebeem/tree/master/models/ivae)\] \[[bibtex](bib/ivae)\]
 
 
