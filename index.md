@@ -4,7 +4,7 @@ layout: home
 ---
 
 I am a forth year PhD student at [Gatsby Computational Neuroscience Unit](http://www.gatsby.ucl.ac.uk/), [UCL](https://www.ucl.ac.uk/) under the supervision of [Aapo Hyvärinen](https://www.cs.helsinki.fi/u/ahyvarin/). Before the PhD, I completed an engineering degree at [École polytechnique](https://www.polytechnique.edu/en) with a focus on applied mathematics. I also obtained a masters degree in Computer vision and Machine learning ([MVA](https://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/)). <br/>
-I organize Gatsby's [Machine Learning journal club](http://www.csml.ucl.ac.uk/events/series/28), and co-organize the [DeepMind/ELLIS CSML Seminar Series at UCL](http://www.csml.ucl.ac.uk/events/series/7).
+I organize Gatsby's [Machine Learning journal club](http://www.csml.ucl.ac.uk/events/series/28), and co-organize the [DeepMind/ELLIS CSML Seminar Series](http://www.csml.ucl.ac.uk/events/series/7) at UCL.
 
 
 ## Research Interest
